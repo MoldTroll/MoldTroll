@@ -43,6 +43,7 @@ UI 파트 담당하였습니다.
 
 ##### 모든 프로젝트는 상용엔진이 아닌 DirectX SDK를 이용하여 개발하였습니다.
 ##### IDE는 Visual Studio 2015, 2022 버전을 이용하였습니다.
+##### 사용 외부 라이브러리 : FMOD, Assimp, DirectXTK
 
 <br>
 <br>
