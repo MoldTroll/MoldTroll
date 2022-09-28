@@ -26,7 +26,7 @@ UI 파트 담당하였습니다.
 # 개인 포트폴리오 소개 영상입니다.
 
 
-DirectX 11 3D 개인 포트폴리오 : A Hat in Time 모작
+## DirectX 11 3D 개인 포트폴리오 : A Hat in Time 모작
 
 
 [![Video Label](http://img.youtube.com/vi/xKojCG_FhhQ/0.jpg)](https://youtu.be/xKojCG_FhhQ)
