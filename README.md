@@ -2,7 +2,7 @@
 
 # 팀 포트폴리오 소개 영상입니다.
 
-## 1. Directx 11 3D 최종 팀 포트폴리오 : Guilty Gear -STRIVE- 모작
+## 1. DirectX 11 3D 최종 팀 포트폴리오 : Guilty Gear -STRIVE- 모작
 
 UI 파트 담당하였습니다.
 
@@ -10,7 +10,7 @@ UI 파트 담당하였습니다.
 
 #### 작업기간 : 2022.06.22 ~ 2022.08.30 (70일)
 ***
-## 2. Directx 9 SR(Software Rendering) 팀 포트폴리오 : Wizard of Legend 모작
+## 2. DirectX 9 SR(Software Rendering) 팀 포트폴리오 : Wizard of Legend 모작
 
 보스몬스터, 보스몬스터 관련 이펙트, 몬스터 드롭아이템 담당하였습니다.
 
@@ -24,6 +24,10 @@ UI 파트 담당하였습니다.
 
 ***
 # 개인 포트폴리오 소개 영상입니다.
+
+
+DirectX 11 3D 개인 포트폴리오 : A Hat in Time 모작
+
 
 [![Video Label](http://img.youtube.com/vi/xKojCG_FhhQ/0.jpg)](https://youtu.be/xKojCG_FhhQ)
 
