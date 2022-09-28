@@ -42,6 +42,6 @@ DirectX 11 3D 개인 포트폴리오 : A Hat in Time 모작
   
 
 ##### 모든 프로젝트는 상용엔진이 아닌 DirectX SDK를 이용하여 개발하였습니다.
-##### IDE는 Visual Studio 2022 버전을 이용하였습니다.
+##### IDE는 Visual Studio 2015, 2022 버전을 이용하였습니다.
 
 </div>
