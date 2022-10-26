@@ -14,7 +14,7 @@ UI 파트 담당하였습니다.
 
 보스몬스터, 보스몬스터 관련 이펙트, 몬스터 드롭아이템 담당하였습니다.
 
-[![Video Label](http://img.youtube.com/vi/s6jlf51Kj8c/0.jpg)](https://youtu.be/s6jlf51Kj8c)
+[![Video Label](http://img.youtube.com/vi/0Eo_wWcORfg/0.jpg)](https://youtu.be/0Eo_wWcORfg)
 
 #### 작업기간 : 2022.02.10 ~ 2022.03.15 (34일)
 
